@@ -12,4 +12,6 @@ yeah
 ####  3. Once Downloaded just double click on the file
 - and then tadda
 - it should be in your library/instances tab
+- you can also import this to your launcher of choice (aslong as it supports .mrpack files)
 ###### i should find a btter way to download them ngl
+
